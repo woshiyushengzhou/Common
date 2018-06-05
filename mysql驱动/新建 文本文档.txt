@@ -1,0 +1,5 @@
+pip install MySQL_python-1.2.5-cp27-none-win_amd64.whl
+若报错：MySQL_python-1.2.5-cp27-none-win_amd64.whl is not a supported wheel on this platform.
+
+将文件名改为     cp36 应该是python版本
+MySQL_python-1.2.5-cp36-none-win_amd64.whl   
